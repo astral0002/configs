@@ -13,7 +13,7 @@
                         },
                         {
                             "name": "ColorContrast",
-                            "value": "0.5600"
+                            "value": "0.7300"
                         },
                         {
                             "name": "ColorGamma",
@@ -55,7 +55,7 @@
                     "settings": [
                         {
                             "name": "ColorPalette",
-                            "value": "0"
+                            "value": "1"
                         }
                     ]
                 },
@@ -121,7 +121,7 @@
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "14.17.615.2328"
+                            "value": "14.18.616.8335"
                         },
                         {
                             "name": "CursorOverride",
@@ -270,7 +270,7 @@
                         },
                         {
                             "name": "MapScrollSpeed",
-                            "value": "0.1900"
+                            "value": "0.2100"
                         },
                         {
                             "name": "MiddleClickDragScrollEnabled",
@@ -419,7 +419,7 @@
                         },
                         {
                             "name": "CurrentTab",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "InventoryPanelPinned",
@@ -431,11 +431,11 @@
                         },
                         {
                             "name": "NativeOffsetX",
-                            "value": "0.0895"
+                            "value": "0.0715"
                         },
                         {
                             "name": "NativeOffsetY",
-                            "value": "-0.0646"
+                            "value": "-0.0590"
                         }
                     ]
                 },
@@ -521,7 +521,7 @@
                         },
                         {
                             "name": "MasterVolume",
-                            "value": "0.4600"
+                            "value": "0.7000"
                         },
                         {
                             "name": "MusicMute",
@@ -537,7 +537,7 @@
                         },
                         {
                             "name": "PingsVolume",
-                            "value": "0.3700"
+                            "value": "0.3000"
                         },
                         {
                             "name": "SfxMute",
@@ -903,19 +903,19 @@
                         },
                         {
                             "name": "evtSelectAlly1",
-                            "value": "[Shift][2]"
+                            "value": "[Shift][1]"
                         },
                         {
                             "name": "evtSelectAlly2",
-                            "value": "[Shift][3]"
+                            "value": "[Shift][2]"
                         },
                         {
                             "name": "evtSelectAlly3",
-                            "value": "[Shift][4]"
+                            "value": "[Shift][3]"
                         },
                         {
                             "name": "evtSelectAlly4",
-                            "value": "[Shift][5]"
+                            "value": "[Shift][4]"
                         },
                         {
                             "name": "evtSelectChaosPlayer5",
@@ -943,7 +943,7 @@
                         },
                         {
                             "name": "evtSelectSelf",
-                            "value": "[Shift][1]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSelfCastAvatarSpell1",
@@ -1311,7 +1311,7 @@
                         },
                         {
                             "name": "evtUseItem7",
-                            "value": "[b],[Ctrl][b]"
+                            "value": "[b]"
                         },
                         {
                             "name": "evtUseVisionItem",
